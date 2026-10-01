@@ -1,1 +1,15 @@
 objet1 <- 2+2
+objet <- 2+2
+objet
+objet10 <- log10(10)
+objetracine <- objet+objet10 
+objetracine
+objet2 <- log(100, base =10)
+?(log)
+f <- get("(")
+?f <- get("(")
+x <- 10^-(1+2*1:9)
+x
+y <- 1000
+logy <- log(y, base = 10)
+logy
